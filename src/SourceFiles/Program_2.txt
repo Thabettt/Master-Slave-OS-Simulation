@@ -1,0 +1,6 @@
+assign a input
+assign b input
+assign c subtract a b
+print c
+assign c add a b
+print c
